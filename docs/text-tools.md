@@ -563,3 +563,5 @@
 * [FontGenerator.cc](https://fontgenerator.cc/)
 * [FontGenerator.cool](https://fontgenerator.cool/)
 * [Fancy Text Decorator](https://fancytextdecorator.com/)
+* [Nome Personalizados](https://nomepersonalizados.com/)
+* [Fontt Generator](https://fonttgenerator.com/)
